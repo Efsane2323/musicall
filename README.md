@@ -3,7 +3,7 @@
 - [Müzik Bot](https://t.me/StarMuzikBot) Telegram Müzik Bot .
 
 # Support 
-- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
+- [Destek] ( https://t.me/nevarevladim ) Telegram Destek Grubu .
 
 
 ### ⏳ Genel Komutlar
@@ -20,10 +20,10 @@
 - `/unauth` •> **ᴋᴜʟʟᴀɴɪᴄɪʏɪ ʏᴇᴛᴋɪsɪᴢʟᴇsᴛɪʀɪʀ**
 
 
-### Heroku Kurulum ⏳
+### Heroku Kurulumu ⏳
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Music)
 -
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MehmetAtes21/Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+< p align = "merkez" >< a href = "  " >< img src = " https://img  .shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-rozet&logo=Okteto " genişlik = "200" yükseklik = "35.45" /></ a ></ p >
 
-- Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt. 
+- Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt.
