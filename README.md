@@ -1,9 +1,9 @@
 
 # Müzik Bot 🇹🇷
-- [Müzik Bot] (https://t.me/nevarevladim) Telegram Müzik Bot .
+- [Müzik Bot] (https://t.me/gonulyarasisupport) Telegram Müzik Bot .
 
 #Destek
-- [Destek] ( https://t.me/nevarevladim ) Telegram Destek Grubu .
+- [Destek] ( https://t.me/gonulyarasisupport ) Telegram Destek Grubu .
 
 
 ### ⏳ Genel Komutlar
