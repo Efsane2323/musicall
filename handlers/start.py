@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url="a https://t.me/gonulyarasisupport"
+                        "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url="https://t.me/gonulyarasisupport"
                     )
                 ]
                 
@@ -91,13 +91,15 @@ async def herkes(_, query: CallbackQuery):
          )
 
 @Client.on_callback_query(filters.regex("admin"))
-async def admin(_, query: CallbackQuery):7
+async def admin(_, query: CallbackQuery):
     await query.edit_message_text(f"""<b>Selam {query.from_user.mention}!\nBu botun adminler için komut menüsü 🤩\n\n ▶️ /devam - şarkı çalmaya devam et\n ⏸️ /durdur - çalan parçayı duraklatmak için\n 🔄 /atla- Sıraya alınmış müzik parçasını atlatır.\n ⏹ /son - müzik çalmayı durdurma\n 🔼 /ver botun sadece yönetici için kullanılabilir olan komutlarını kullanabilmesi için kullanıcıya yetki ver\n 🔽 /al botun yönetici komutlarını kullanabilen kullanıcının yetkisini al\n\n ⚪ /asistan - Müzik asistanı grubunuza katılır.\n\n</b>""",
     reply_markup=InlineKeyboardMarkup(
              [
                  [
                      InlineKeyboardButton(
-                         "⚙ Geliştirici", url="o
+                         "⚙ Geliştirici", url="https://t.me/gonulyarasisupport")
+                 ],
+                 [
                      InlineKeyboardButton(
                          "⬅️ Geri ⬅️", callback_data="cbbilgi")
                  ] 
