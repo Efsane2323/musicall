@@ -22,7 +22,7 @@ async def start(_, message: Message):
                         "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
-                        "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url="@rbentanistirimm"
+                        "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url="rbentanistirimm"
                     )
                 ]
                 
@@ -67,7 +67,7 @@ async def cbbilgi(_, query: CallbackQuery):
         ],
         [
           InlineKeyboardButton(
-            "📩 𝐒𝐚𝐡𝐢𝐩", url="@rbentanistirimm")
+            "📩 𝐒𝐚𝐡𝐢𝐩", url="rbentanistirimm")
         ]
       ]
      ))
@@ -80,7 +80,7 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="@gonulmusicasistan")
+                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="gonulmusicasistan")
                  ],
                  [
                      InlineKeyboardButton(
