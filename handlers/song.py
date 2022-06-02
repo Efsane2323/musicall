@@ -127,3 +127,4 @@ async def vsong(client, message):
         await msg.delete()
     except Exception as e:
         print(e)
+
