@@ -1,6 +1,6 @@
 
 # Müzik Bot 🇹🇷
-- [Müzik Bot] (https://t.me/gonulyarasisupport) Telegram Müzik Bot .
+- [Müzik Bot] (http://t.me/Gonul_musicbot) Telegram Müzik Bot .
 
 #Destek
 - [Destek] ( https://t.me/gonulyarasisupport ) Telegram Destek Grubu .
