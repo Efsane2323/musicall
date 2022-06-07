@@ -1,9 +1,9 @@
 
 # Müzik Bot 🇹🇷
-- [Müzik Bot] (http://t.me/Dilberan_musicbot) Telegram Müzik Bot .
+- [Müzik Bot] (http://t.me/hababam_sinifibot) Telegram Müzik Bot .
 
 #Destek
-- [Destek] ( https://t.me/dilberansohbett ) Telegram Destek Grubu .
+- [Destek] ( https://t.me/hababammsinifi) Telegram Destek Grubu .
 
 
 ### ⏳ Genel Komutlar
