@@ -39,7 +39,7 @@ async def bilgi(_, message: Message):
              [
                  [
                      InlineKeyboardButton(
-                         "📚 𝖳𝗎𝗆 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋", callback_data="herkes")
+                         "📚 𝖳𝗎𝗆 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋", callback_data="cbbilgi")
                  ],[
                      InlineKeyboardButton(
                          "🗯️ 𝖠𝗇𝖺 𝖬𝖾𝗇𝗎 ", callback_data="cbstart")
@@ -120,7 +120,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
+                        "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "cbbilgi"
                     ),
                     InlineKeyboardButton(
                         "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url=f"https://t.me/hababammsinifi"
