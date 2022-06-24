@@ -80,7 +80,7 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="hababammusicAsistan")
+                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="hababammusicAsistann")
                  ],
                  [
                      InlineKeyboardButton(
