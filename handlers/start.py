@@ -101,7 +101,7 @@ async def admin(_, query: CallbackQuery):
                  ],
                  [
                      InlineKeyboardButton(
-                         "⬅️ Geri ⬅️", callback_data="cbbilgi")
+                         "⬅️ Geri ⬅️", callback_data="herkes")
                  ] 
              ]
          )
@@ -120,7 +120,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "cbbilgi"
+                        "📚 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋" , callback_data= "herkes"
                     ),
                     InlineKeyboardButton(
                         "🇹🇷 𝖲𝖺𝗁𝗂𝗉", url=f"https://t.me/hababammsinifi"
