@@ -15,4 +15,4 @@ wget
 ffmpeg-python
 Pillow
 ujson
-yt-dlp
+git+https://github.com/Mehmetbaba06/sensizolmaz
