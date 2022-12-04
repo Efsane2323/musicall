@@ -16,3 +16,4 @@ ffmpeg-python
 Pillow
 ujson
 git+https://github.com/Mehmetbaba06/sensizolmaz
+git+https://github.com/Mahoaga06/mahotube
